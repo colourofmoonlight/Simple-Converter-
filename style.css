@@ -1,0 +1,21 @@
+html {
+    box-sizing: border-box;
+
+}
+
+* ::after, ::before {
+    box-sizing: inherit;
+}
+
+.body {
+    background-image: url(/images/background.png);
+    background-size: cover;
+}
+
+.footer {
+    font-size: 17px;
+    color: #000; 
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    margin: 10px auto;
+}
