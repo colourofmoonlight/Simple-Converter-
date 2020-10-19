@@ -1,0 +1,11 @@
+.main {
+    max-width: 500px;
+    height: 400px;
+    max-height: 500px;
+    margin: 10px auto;
+    font-family: 'Dosis', sans-serif;
+    background: rgba(245, 245, 248, 0.884);
+    font-size: 17px;
+    border: 3px solid #9CB7A6;
+    box-shadow: 0 0 30px #2b2e2cf5;
+}
